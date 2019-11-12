@@ -1,0 +1,258 @@
+{
+  "estadosGuardados": [
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Adfsdf",
+            "edad": 55,
+            "dni": 35345345
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Ffsdfhfh",
+            "edad": 54,
+            "dni": 45365645
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Dsd",
+            "edad": 67,
+            "dni": 53645675
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Fdfs",
+            "edad": 56,
+            "dni": 45346547
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Asda",
+            "edad": 54,
+            "dni": 34253565
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Gsdfs",
+            "edad": 56,
+            "dni": 53654645
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Ffs",
+            "edad": 54,
+            "dni": 54353453
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Fdsfsd",
+            "edad": 45,
+            "dni": 45353453
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Chuck",
+            "edad": 34,
+            "dni": 34534534
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Oddy",
+            "edad": 45,
+            "dni": 34534645
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Sol",
+            "edad": 34,
+            "dni": 45345345
+          },
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Chuck",
+            "edad": 54,
+            "dni": 64564564
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Sfs",
+            "edad": 32,
+            "dni": 34234234
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Dsdfsdfs",
+            "edad": 43,
+            "dni": 45435345
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Chuck",
+            "edad": 54,
+            "dni": 56464564
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Oddy",
+            "edad": 34,
+            "dni": 34534534
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Sasd",
+            "edad": 23,
+            "dni": 34234234
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Dss",
+            "edad": 45,
+            "dni": 34324254
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Juan",
+            "edad": 23,
+            "dni": 34234234
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Lucia",
+            "edad": 34,
+            "dni": 34535345
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Sads",
+            "edad": 34,
+            "dni": 34234234
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Dasdasd",
+            "edad": 34,
+            "dni": 32424534
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Sda",
+            "edad": 42,
+            "dni": 42342342
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Sol",
+            "edad": 34,
+            "dni": 34253643
+          },
+          {
+            "_puesto": "Lider de Proyecto",
+            "nombre": "Juan",
+            "edad": 34,
+            "dni": 34534534
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Roberto",
+            "edad": 34,
+            "dni": 34234235
+          }
+        ]
+      }
+    },
+    {
+      "estado": {
+        "trabajadores": [
+          {
+            "_puesto": "Arquitecto",
+            "nombre": "Juan",
+            "edad": 45,
+            "dni": 45645645
+          }
+        ]
+      }
+    }
+  ],
+  "estadoActual": 14,
+  "repo": {}
+}
